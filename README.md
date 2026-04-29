@@ -1,102 +1,50 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Kailash!+%F0%9F%91%8B;SDE+Intern;Systems+Engineering+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-  </a>
-</h1>
+# Kailash Choudhari
+### Software Development Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems_Programming-FF4B4B?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Concurrency-10B981?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-</p>
+I'm a software engineer focused on building robust and scalable systems. While I have a deep interest in systems engineering and performance optimization, I'm passionate about solving complex engineering problems across the stack.
 
-<p align="center">
-  <em>Passionate software engineer with a strong focus on high-performance backend systems, concurrency, and multithreading. I love diving deep into C++ internals and building robust infrastructure components.</em>
-</p>
+I enjoy working on everything from storage engines to concurrent data structures, and I'm always looking to expand my technical breadth.
+
+- 🎓 B.Tech in Electrical and Electronics Engineering (Minor in Computer Science), **VNIT Nagpur** (Class of 2027)
+- 💼 Upcoming **SDE Intern** (May 2026 - July 2026)
 
 ---
 
-### 👨‍💻 About Me
+### Engineering Focus
 
-- 🎓 Currently pursuing B.Tech in Electrical and Electronics Engineering (Minor in Computer Science) at **VNIT, Nagpur** (Class of 2027).
-- 💼 Upcoming **Software Development Engineer (SDE) Intern** (May 2026 - July 2026).
-- 🌱 Specializing in **low-level systems engineering**, from storage engines to lock-free data structures.
-- ⚡ **Fun fact:** I am fueled by C++ and a vegan diet! 🥦
+My work generally revolves around high-performance infrastructure, concurrency, and algorithm design. I'm actively expanding my toolkit to build end-to-end systems.
 
----
-
-### 🚀 Technical Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,linux,git,github,bash,cmake,docker&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,python,fastapi&perline=8" />
-</div>
-
-<br>
-
-<details>
-  <summary><b>🛠️ Core Concepts</b></summary>
-  <ul>
-    <li>Data Structures & Algorithms</li>
-    <li>Multithreading & Concurrency</li>
-    <li>Systems Design</li>
-    <li>Backend Infrastructure</li>
-    <li>Lock-Free Programming</li>
-  </ul>
-</details>
+**Languages & Tools:** C++, C, Python, PostgreSQL, Redis, Docker, Git, Linux
+**Interests:** Distributed Systems, Storage Engines, Multithreading, API Design, System Architecture
 
 ---
 
-### 📊 Competitive Programming
+### Projects
 
-I am a highly active competitive programmer, constantly challenging myself to write optimized and efficient code. I've solved **over 800+ algorithmic problems** across various platforms.
+- **LSM Storage Engine**
+  A Log-Structured Merge Tree engine built from scratch. Designed for write-heavy workloads with an emphasis on sequential I/O performance.
 
-<div align="center">
-  <a href="https://codeforces.com/profile/Kailash_Choudhari" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Kailash__Choudhari-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/Kailash_Choudhari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Kailash__Choudhari-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/kailash_03" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-kailash__03-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef" />
-  </a>
-</div>
+- **Lock-Free MPSC Ring Buffer**
+  A high-throughput Multi-Producer, Single-Consumer queue. Implemented using atomic operations to guarantee thread-safe, wait-free execution without traditional locking overhead.
+
+- **Concurrent Bloom Filter**
+  A space-efficient probabilistic data structure built as a native extension. Engineered to safely handle high-concurrency access patterns.
 
 ---
 
-### 💻 Featured Projects
+### Competitive Programming
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌲 **LSM Storage Engine** | A high-performance Log-Structured Merge Tree engine optimized for intensive write operations. | `C++` `Storage` |
-| 🔄 **Lock-Free MPSC Ring Buffer** | Developed a Multi-Producer, Single-Consumer queue ensuring thread-safe, wait-free operations. | `C++` `Concurrency` `Atomics` |
-| 🔍 **Concurrent Bloom Filter** | Engineered a space-efficient probabilistic data structure built to handle concurrent accesses seamlessly. | `C++` `Python` |
+I actively participate in competitive programming to keep my algorithmic problem-solving skills sharp. I've solved over 800 problems across various platforms.
 
----
-
-### 🏆 Achievements
-
-- 🥇 **Amazon ML Challenge 2025:** Secured an All India Rank of **1648** out of 82,000+ participants.
-- 🏅 **Who is the Boss:** Winner of the intense mathematical challenge competition.
+- **Profiles:** [Codeforces](https://codeforces.com/profile/Kailash_Choudhari) | [LeetCode](https://leetcode.com/u/Kailash_Choudhari/) | [CodeChef](https://www.codechef.com/users/kailash_03)
+- **Achievements:** 
+  - AIR 1648 in Amazon ML Challenge 2025 (out of 82,000+ participants)
+  - Winner of the "Who is the Boss" mathematics challenge
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/KAILASH-SOU">
-    <img src="https://github-readme-stats.vercel.app/api?username=KAILASH-SOU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Kailash's GitHub Stats" />
-  </a>
-  <a href="https://github.com/KAILASH-SOU">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAILASH-SOU&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Kailash's GitHub Streak" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/KAILASH-SOU">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAILASH-SOU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KAILASH-SOU&show_icons=true&hide_border=true&theme=transparent&title_color=1F8ACB" alt="Kailash's GitHub Stats" />
   </a>
 </div>
